@@ -9,7 +9,7 @@
 	url = https://github.com/tillsteinbach/CarConnectivity-connector-tronity
 [submodule "CarConnectivity-connector-seatcupra"]
 	path = CarConnectivity-connector-seatcupra
-	url = https://github.com/kRew94/CarConnectivity-connector-seatcupra
+	url = https://github.com/tillsteinbach/CarConnectivity-connector-seatcupra
 [submodule "CarConnectivity-connector-skoda"]
 	path = CarConnectivity-connector-skoda
 	url = https://github.com/tillsteinbach/CarConnectivity-connector-skoda
